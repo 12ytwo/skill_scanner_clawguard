@@ -1,0 +1,9 @@
+Doc/
+data/
+results/
+testdata.xlsx
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
