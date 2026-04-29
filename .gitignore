@@ -1,6 +1,9 @@
-Doc/
-data/
-results/
+Doc/*
+!Doc/.gitkeep
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
 testdata.xlsx
 
 __pycache__/
